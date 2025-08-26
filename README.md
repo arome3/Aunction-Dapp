@@ -3,8 +3,6 @@
 A decentralised auction app build on Ethereum using Solidity and Hardhat. Deeds are created using ERC-721 tokens, auctions are open for bidding within specified period and the user with the highest bid, gets the token. Front-end is being built with React and will be added here soon.
 
 
-## Helpful commands
-
 ```python
 npx hardhat test
 npx hardhat node
